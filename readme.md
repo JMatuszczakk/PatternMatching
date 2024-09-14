@@ -20,7 +20,7 @@ This project aims to develop a machine learning model capable of real-time stock
 * **Evaluation:** Evaluate the model's performance using metrics like mean squared error (MSE), root mean squared error (RMSE), and accuracy.
 * **Deployment:** Deploy the trained model to a real-time environment for continuous prediction.
 
-
+![Pattern Matching screenshot](https://i.imgur.com/4lJq6Nx.png)
 
 ## *Code, Customization, and Usage*
 
